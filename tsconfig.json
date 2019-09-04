@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "noImplicitAny": true,
+        "resolveJsonModule": true
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "compileOnSave": false
+}
